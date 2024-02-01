@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import Header from './components/Header.vue'
-import Switch from "./components/Switch.vue";
 import {onMounted, ref} from "vue";
 
 const sidebarOpen = ref(false);
